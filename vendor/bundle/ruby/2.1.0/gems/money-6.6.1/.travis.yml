@@ -1,0 +1,14 @@
+language: ruby
+sudo: false
+rvm:
+  - 1.9.3
+  - 2.0.0
+  - 2.1.6
+  - 2.2.2
+  - rbx-2
+script: bundle exec rspec spec
+notifications:
+  email:
+    - semmons99@gmail.com
+    - andreas@aloop.org
+    - weppos@weppos.net

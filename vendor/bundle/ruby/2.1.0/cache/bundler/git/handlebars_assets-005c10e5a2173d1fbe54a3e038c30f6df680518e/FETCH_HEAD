@@ -1,0 +1,54 @@
+e1973fa6963ea007d3464a921720a4f854c7e2c8		branch 'ember_without_rails' of git://github.com/tjgrathwell/handlebars_assets
+6dd08123386342d55af1fecc91a7949fb57f906d		branch 'experimental-amd-support' of git://github.com/tjgrathwell/handlebars_assets
+7c3d9486b2eed9f8904b84966e27e2c885b4032a		branch 'fix-sprockets-register' of git://github.com/tjgrathwell/handlebars_assets
+53443fa7f92c011714bd6aa5831be6074131cfca		branch 'master' of git://github.com/tjgrathwell/handlebars_assets
+4509ea78b377726f682dcdc8be21fabb5ed5b695		branch 'sprockets-register-transformers' of git://github.com/tjgrathwell/handlebars_assets
+b08c93c9d73f2d9a7e420084e0cc37107c942e62		branch 'sprockets4' of git://github.com/tjgrathwell/handlebars_assets
+22af2ee5c2b79cf3b0cab9e8665d6bb87ef16db9	not-for-merge	tag 'v0.0.1' of git://github.com/tjgrathwell/handlebars_assets
+4d7cfc0a93d001680e74f7253d016d5311ab6963	not-for-merge	tag 'v0.0.2' of git://github.com/tjgrathwell/handlebars_assets
+40790648e28d200e68cb3903bee2d57484f4994e	not-for-merge	tag 'v0.0.3' of git://github.com/tjgrathwell/handlebars_assets
+8f1fe038c6e919b25092eff365b9cd9522709a32	not-for-merge	tag 'v0.1.0' of git://github.com/tjgrathwell/handlebars_assets
+20e36e224cb63199e1d98828df40cc32a09b5a99	not-for-merge	tag 'v0.1.1' of git://github.com/tjgrathwell/handlebars_assets
+f30948181a4bfd475f82bf553df02af9d49137c4	not-for-merge	tag 'v0.1.2' of git://github.com/tjgrathwell/handlebars_assets
+4fe9cd80cac52cbd933e6a518dd9102ce74c0888	not-for-merge	tag 'v0.1.3' of git://github.com/tjgrathwell/handlebars_assets
+a78bc66a9e9c8374e389d7838cc68a5be4194184	not-for-merge	tag 'v0.1.4' of git://github.com/tjgrathwell/handlebars_assets
+2dbc10ab2a3b07bb29cdeeff7c2e42d3f0266e94	not-for-merge	tag 'v0.10.0' of git://github.com/tjgrathwell/handlebars_assets
+f698547577a9c02c68e5db4deb6a750465ff096e	not-for-merge	tag 'v0.11.0' of git://github.com/tjgrathwell/handlebars_assets
+0c5fe3abdb5f8ecbffe1d9e7b0b686c6eb1dea76	not-for-merge	tag 'v0.12.0' of git://github.com/tjgrathwell/handlebars_assets
+ae8868bd49371f12bdddaaaaad270aa8cbec20a4	not-for-merge	tag 'v0.12.1' of git://github.com/tjgrathwell/handlebars_assets
+969ea5935e51c0b1a96232edf7131bc216464d1c	not-for-merge	tag 'v0.12.2' of git://github.com/tjgrathwell/handlebars_assets
+6fedd48bbe7dc5f4d5a25045b2895b2f31b1f3db	not-for-merge	tag 'v0.12.3' of git://github.com/tjgrathwell/handlebars_assets
+d03c8d413b0b70bfa6501dcfb9a66a41f3e872c3	not-for-merge	tag 'v0.13.0' of git://github.com/tjgrathwell/handlebars_assets
+28ae76ec9509c3ef2d7d2f57352343f6555d8422	not-for-merge	tag 'v0.14.0' of git://github.com/tjgrathwell/handlebars_assets
+08415d9030baf302af1d9a294e8770a0fa2805d9	not-for-merge	tag 'v0.14.1' of git://github.com/tjgrathwell/handlebars_assets
+410b7264e04b0ce925f8cc95d975cef2a0358ac4	not-for-merge	tag 'v0.16' of git://github.com/tjgrathwell/handlebars_assets
+b5605d09f9bf8a5fe559aa5b7b49759bc83f87fc	not-for-merge	tag 'v0.17' of git://github.com/tjgrathwell/handlebars_assets
+72575e25c9b7d13beedae4f006326466fb896b4f	not-for-merge	tag 'v0.18.1' of git://github.com/tjgrathwell/handlebars_assets
+9497c57696f80a5979ec31834dd738cca5597127	not-for-merge	tag 'v0.19' of git://github.com/tjgrathwell/handlebars_assets
+7d8cae4b0740373a009af4f14a4f804a1a45bfc4	not-for-merge	tag 'v0.19.2' of git://github.com/tjgrathwell/handlebars_assets
+3d9eb1d76bbe6e6665826915e81aa8db9b040267	not-for-merge	tag 'v0.2.0' of git://github.com/tjgrathwell/handlebars_assets
+ee873f1f59dff1e1e5c207ff5f2ef82a6a3037ad	not-for-merge	tag 'v0.20.0' of git://github.com/tjgrathwell/handlebars_assets
+1cf5256e6ead274b9137f8c2b4b1805e12796d7a	not-for-merge	tag 'v0.20.1' of git://github.com/tjgrathwell/handlebars_assets
+d2f100669009f03bd78c74fc032eedb7052e9c40	not-for-merge	tag 'v0.20.2' of git://github.com/tjgrathwell/handlebars_assets
+8aec88ec6282c088482603362aa2f08cd8b1a5ce	not-for-merge	tag 'v0.3.0' of git://github.com/tjgrathwell/handlebars_assets
+109340c1c0e3a46dcf9130ffb3c4ce267f8c2b58	not-for-merge	tag 'v0.3.1' of git://github.com/tjgrathwell/handlebars_assets
+92ae0ffd3020811d2dfed9fcba2ffd4864a04c9b	not-for-merge	tag 'v0.4.0' of git://github.com/tjgrathwell/handlebars_assets
+13c11a6b1df6e880e169668bd1768f3a4efb2b45	not-for-merge	tag 'v0.4.1' of git://github.com/tjgrathwell/handlebars_assets
+175c535f8da20e8353b59af02a74ab7db3a089a4	not-for-merge	tag 'v0.4.2' of git://github.com/tjgrathwell/handlebars_assets
+9934a572777d42f1be988c3b50fe488e2b02bfbb	not-for-merge	tag 'v0.4.3' of git://github.com/tjgrathwell/handlebars_assets
+b3e557d1657149eed6a32e054e8815a2e0aec794	not-for-merge	tag 'v0.4.4' of git://github.com/tjgrathwell/handlebars_assets
+39d31be0d585da55f5ee140a3b75bcd3fc10940a	not-for-merge	tag 'v0.5.0' of git://github.com/tjgrathwell/handlebars_assets
+30fa728f187f849e7deb8640a494739f9cdaad77	not-for-merge	tag 'v0.6.0' of git://github.com/tjgrathwell/handlebars_assets
+d374c23e2bb5c104cd18aa834b56c2bea1d2f22e	not-for-merge	tag 'v0.6.1' of git://github.com/tjgrathwell/handlebars_assets
+92f139e162d553563fead6a068aad75064b71389	not-for-merge	tag 'v0.6.2' of git://github.com/tjgrathwell/handlebars_assets
+0c22ad28ef0285d9440cac48b3d895d0b1bdd7c8	not-for-merge	tag 'v0.6.3' of git://github.com/tjgrathwell/handlebars_assets
+37b3fd68206936f9725be2a9438cb809e37921fd	not-for-merge	tag 'v0.6.4' of git://github.com/tjgrathwell/handlebars_assets
+b68dc30de5547ed3f4a93a6481cd917f8f59b88b	not-for-merge	tag 'v0.6.5' of git://github.com/tjgrathwell/handlebars_assets
+6badad23b7bcf23319c8337073f2822bc0794854	not-for-merge	tag 'v0.6.6' of git://github.com/tjgrathwell/handlebars_assets
+23049798038ad83c320f99993c57c1e699bbf216	not-for-merge	tag 'v0.6.7' of git://github.com/tjgrathwell/handlebars_assets
+878ba6e05b1e1920947db7120f3740ad0acf5d51	not-for-merge	tag 'v0.7.0' of git://github.com/tjgrathwell/handlebars_assets
+31449d581d5d023317a41607a12f70c0816e7ee1	not-for-merge	tag 'v0.7.2' of git://github.com/tjgrathwell/handlebars_assets
+7ac9c4b12a26691f2d138311e037971f60156402	not-for-merge	tag 'v0.8.0' of git://github.com/tjgrathwell/handlebars_assets
+f55d03a838b2c8991162be1507d71e7066f444f1	not-for-merge	tag 'v0.8.1' of git://github.com/tjgrathwell/handlebars_assets
+00fbadc332aa23c2eedc18b08e2a306f81b93864	not-for-merge	tag 'v0.8.2' of git://github.com/tjgrathwell/handlebars_assets
+281ecb57a35d0eba15f0e2f01b5ab527984e5f57	not-for-merge	tag 'v0.9.0' of git://github.com/tjgrathwell/handlebars_assets
