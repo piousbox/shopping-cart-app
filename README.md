@@ -1,3 +1,6 @@
+
+Use branch 0.0.0 as it's more modern.
+
 # Use handlebars.js templates with the asset pipeline and/or sprockets
 
 Are your `handlebars.js` templates littering your Rails views with `script` tags? Wondering why the nifty Rails 3.1 asset pipeline streamlines all your JavaScript except for your Handlebars templates? Wouldn't it be nice to have your Handlebars templates compiled, compressed, and cached like your other JavaScript?
