@@ -39,17 +39,17 @@ creating Makefile
 make "DESTDIR=" clean
 
 make "DESTDIR="
+compiling poll.c
+compiling tryopen.c
+compiling accept.c
 compiling read.c
+compiling connect.c
 compiling kgio_ext.c
 compiling writev.c
 compiling write.c
-compiling tryopen.c
-compiling connect.c
-compiling accept.c
-compiling poll.c
 compiling wait.c
 linking shared-object kgio_ext.so
 
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 kgio_ext.so ./.gem.20160101-26140-n64zlm
+/usr/bin/install -c -m 0755 kgio_ext.so ./.gem.20160105-3566-40yhct
 installing default kgio_ext libraries

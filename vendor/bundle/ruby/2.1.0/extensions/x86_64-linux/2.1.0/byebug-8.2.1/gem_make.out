@@ -4,13 +4,13 @@ creating Makefile
 make "DESTDIR=" clean
 
 make "DESTDIR="
-compiling byebug.c
-compiling threads.c
-compiling locker.c
 compiling breakpoint.c
 compiling context.c
+compiling locker.c
+compiling byebug.c
+compiling threads.c
 linking shared-object byebug/byebug.so
 
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 byebug.so ./.gem.20160101-6547-1wf1d7t/byebug
+/usr/bin/install -c -m 0755 byebug.so ./.gem.20160105-3566-37o9kg/byebug
 installing default byebug libraries

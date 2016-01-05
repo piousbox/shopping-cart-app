@@ -18,5 +18,5 @@ compiling raindrops.c
 linking shared-object raindrops_ext.so
 
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 raindrops_ext.so ./.gem.20160101-26140-1759ajg
+/usr/bin/install -c -m 0755 raindrops_ext.so ./.gem.20160105-3566-1lll1wm
 installing default raindrops_ext libraries
