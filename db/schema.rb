@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20160101220821) do
+ActiveRecord::Schema.define(version: 20160112204215) do
 
   create_table "friendly_id_slugs", force: :cascade do |t|
     t.string   "slug",                      null: false
@@ -142,24 +142,8 @@ ActiveRecord::Schema.define(version: 20160101220821) do
     t.datetime "updated_at"
   end
 
-  create_table "spree_credit_cards", force: :cascade do |t|
-    t.string   "month"
-    t.string   "year"
-    t.string   "cc_type"
-    t.string   "last_digits"
-    t.string   "gateway_customer_profile_id"
-    t.string   "gateway_payment_profile_id"
-    t.datetime "created_at"
-    t.datetime "updated_at"
-    t.string   "name"
-    t.integer  "user_id"
-    t.integer  "payment_method_id"
-    t.boolean  "default",                     default: false, null: false
-    t.integer  "address_id"
-  end
-
-  add_index "spree_credit_cards", ["payment_method_id"], name: "index_spree_credit_cards_on_payment_method_id"
-  add_index "spree_credit_cards", ["user_id"], name: "index_spree_credit_cards_on_user_id"
+# Could not dump table "spree_credit_cards" because of following NoMethodError
+#   undefined method `[]' for nil:NilClass
 
   create_table "spree_customer_returns", force: :cascade do |t|
     t.string   "number"
@@ -767,6 +751,17 @@ ActiveRecord::Schema.define(version: 20160101220821) do
   end
 
   add_index "spree_shipping_rates", ["shipment_id", "shipping_method_id"], name: "spree_shipping_rates_join_index", unique: true
+
+  create_table "spree_skrill_transactions", force: :cascade do |t|
+    t.string   "email"
+    t.float    "amount"
+    t.string   "currency"
+    t.integer  "transaction_id"
+    t.integer  "customer_id"
+    t.string   "payment_type"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
 
   create_table "spree_state_changes", force: :cascade do |t|
     t.string   "name"
