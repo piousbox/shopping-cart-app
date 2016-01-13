@@ -16,3 +16,5 @@
 !/log/.keep
 /tmp
 vendor/bundle
+/public/spree/products
+/vendor/bundle
