@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'mysql2', "~> 0.3.18"
 gem 'bcrypt', '~> 3.1.7'
 gem 'braintree'
 gem 'bundler'
