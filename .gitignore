@@ -2,3 +2,6 @@
 .bundle
 pkg/*
 Gemfile.lock
+/vendor/bundle
+/public/spree
+/db/*sqlite3
