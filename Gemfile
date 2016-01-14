@@ -9,7 +9,6 @@ gem 'jbuilder', '~> 2.0'
 gem 'jquery-rails'
 gem 'rails', '4.2.4'
 gem 'sdoc', '~> 0.4.0', group: :doc
-gem 'sqlite3'
 gem 'sass-rails', '~> 5.0'
 gem 'solidus'
 gem 'solidus_auth_devise'
@@ -21,6 +20,7 @@ gem 'unicorn'
 
 group :development, :test do
   gem 'byebug'
+  gem 'sqlite3'
 end
 
 group :development do
