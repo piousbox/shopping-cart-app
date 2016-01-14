@@ -334,7 +334,6 @@ DEPENDENCIES
   braintree
   bundler
   byebug
-  coffee-rails (~> 4.1.0)
   handlebars_assets!
   jbuilder (~> 2.0)
   jquery-rails
