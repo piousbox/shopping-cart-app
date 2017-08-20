@@ -1,5 +1,5 @@
 
-This is superseded by bjjc_cart repo.
+This is superseded by bjjc_shop_cart repo.
 
 
 
