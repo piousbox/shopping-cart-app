@@ -1,0 +1,23 @@
+<div class="variant-autocomplete-item media">
+  <div class="media-left">
+    {{#if variant.image }}
+      <img class="media-object" src='{{variant.image}}' />
+    {{ else }}
+      <img class="media-object" src='/assets/noimage/mini-d5d987414566f22657bbe0b08a980ddb4230d156845a31ab3cad0a0825016ce8.png' />
+    {{/if}}
+  </div>
+
+  <div class="media-body">
+    <h6 class="media-heading">{{variant.name}}</h6>
+    <dl class="dl-collapse">
+      {{#if variant.option_values}}
+        {{#each variant.option_values}}
+          <dt>{{this.option_type_presentation}}:</dt>
+          <dd>{{this.presentation}}</dd>
+        {{/each}}
+      {{/if}}
+      <dt>{{ t "sku" }}</dt>
+      <dd>{{variant.sku}}</dd>
+    </dl>
+  </div>
+</div>

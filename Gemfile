@@ -18,6 +18,7 @@ gem 'solidus_braintree'
 gem 'turbolinks'
 gem 'uglifier', '>= 1.3.0'
 gem 'unicorn'
+gem 'therubyracer'
 
 group :development, :test do
   gem 'byebug'
