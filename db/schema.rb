@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20160112204215) do
+ActiveRecord::Schema.define(version: 20160111202737) do
 
   create_table "friendly_id_slugs", force: :cascade do |t|
     t.string   "slug",                      null: false
@@ -142,8 +142,24 @@ ActiveRecord::Schema.define(version: 20160112204215) do
     t.datetime "updated_at"
   end
 
-# Could not dump table "spree_credit_cards" because of following NoMethodError
-#   undefined method `[]' for nil:NilClass
+  create_table "spree_credit_cards", force: :cascade do |t|
+    t.string   "month"
+    t.string   "year"
+    t.string   "cc_type"
+    t.string   "last_digits"
+    t.string   "gateway_customer_profile_id"
+    t.string   "gateway_payment_profile_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+    t.string   "name"
+    t.integer  "user_id"
+    t.integer  "payment_method_id"
+    t.boolean  "default",                     default: false, null: false
+    t.integer  "address_id"
+  end
+
+  add_index "spree_credit_cards", ["payment_method_id"], name: "index_spree_credit_cards_on_payment_method_id"
+  add_index "spree_credit_cards", ["user_id"], name: "index_spree_credit_cards_on_user_id"
 
   create_table "spree_customer_returns", force: :cascade do |t|
     t.string   "number"
